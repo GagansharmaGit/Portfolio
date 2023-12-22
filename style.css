@@ -448,6 +448,22 @@ a{
     margin-left:120px;
     background-image: url(Images/projects/Web\ capture_5-12-2023_16632_localhost.jpeg);
   }
+  #project5{
+    background-image: url(Images/projects/PastedGraphic.png);
+  }
+
+  #project6{
+    margin-left:120px;
+    background-image: url(Images/projects/Web\ capture_5-12-2023_164545_127.0.0.1.jpeg);
+  }
+  #project7{
+    background-image: url(Images/projects/Web\ capture_5-12-2023_16414_localhost.jpeg);
+  }
+  #project8{
+    margin-left:120px;
+    background-image: url(Images/projects/Web\ capture_5-12-2023_16632_localhost.jpeg);
+  }
+
   @media(max-width:1300px){
     .page-header{
         padding-top: 30px;
